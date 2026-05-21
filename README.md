@@ -1,1 +1,1 @@
-# hardhat-detection-yolov8
+#  XUPT机器学习实验七 CNN进阶-从认出物体到精准定位 目标检测
